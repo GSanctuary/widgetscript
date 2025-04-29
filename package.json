@@ -1,0 +1,9 @@
+{
+  "name": "widgetscript",
+  "version": "0.1.0",
+  "description": "TypeScript library for handling Jarvis Widgets",
+  "main": "index.js",
+  "author": "Jarvis Team",
+  "license": "MIT",
+  "private": false
+}
