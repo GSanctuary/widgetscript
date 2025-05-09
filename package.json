@@ -1,9 +1,12 @@
 {
-  "name": "widgetscript",
+  "name": "@gsanctuary/widgetscript",
   "version": "0.1.0",
   "description": "TypeScript library for handling Jarvis Widgets",
-  "main": "index.js",
+  "main": "index.ts",
   "author": "Jarvis Team",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
